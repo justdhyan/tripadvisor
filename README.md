@@ -16,6 +16,9 @@ A feature-rich, modern clone of Tripadvisor built with next-gen tools and intera
 - 🌙 **Dark Mode**  
   Toggleable light/dark theme across the entire site.
 
+- 🧠 **AI Trip Planner**  
+  Smart itinerary builder based on user preferences and behavior.
+
 - 🤖 **AI Support Chat**  
   Real-time chatbot with NLP capabilities and fallback to human support.
 
@@ -28,17 +31,8 @@ A feature-rich, modern clone of Tripadvisor built with next-gen tools and intera
 - ✅ **Verified Property Listings**  
   Listings marked as “Verified” with a badge for credibility.
 
-- 🏠 **AR Property Previews**  
-  Augmented reality previews for properties via WebXR or AR.js.
-
-- 🧠 **AI Trip Planner**  
-  Smart itinerary builder based on user preferences and behavior.
-
 - 🧳 **Social Travel Feed**  
   Community feed with travel posts, photos, reviews, and interactions.
-
-- 👥 **Collaborative Trip Planning**  
-  Shared planning tools with trip voting, calendars, and live updates.
 
 - 🆕 **"NEW" Badges for Features**  
   Visual indicators marking newly added sections and features.
