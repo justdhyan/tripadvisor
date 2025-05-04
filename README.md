@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+# Tripadvisor – Where to? 🌍✈️
 
-## Project info
+### A smarter travel experience reimagined.  
+A feature-rich, modern clone of Tripadvisor built with next-gen tools and interactions to help users plan, explore, and share their journeys with ease.
 
-**URL**: https://lovable.dev/projects/060a3416-62a0-4d25-b220-275b5c5bb6af
+> 📝 **Project Focus**: *Recreate Tripadvisor with powerful enhancements for an immersive and intelligent travel platform.*
 
-## How can I edit this code?
+## 🔗 Live Preview 👇
 
-There are several ways of editing your application.
+🔴 https://tripadvisor01.vercel.app/
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/060a3416-62a0-4d25-b220-275b5c5bb6af) and start prompting.
+## 🚀 Features Added
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🌙 **Dark Mode**  
+  Toggleable light/dark theme across the entire site.
 
-**Use your preferred IDE**
+- 🤖 **AI Support Chat**  
+  Real-time chatbot with NLP capabilities and fallback to human support.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ☀️ **Weather Forecast Integration**  
+  Live weather data for destinations with temperature, icons, and forecast.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 📔 **Travel Journal & Photo Sharing**  
+  Users can create trip journals, upload photos, and share experiences.
 
-Follow these steps:
+- ✅ **Verified Property Listings**  
+  Listings marked as “Verified” with a badge for credibility.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🏠 **AR Property Previews**  
+  Augmented reality previews for properties via WebXR or AR.js.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- 🧠 **AI Trip Planner**  
+  Smart itinerary builder based on user preferences and behavior.
 
-# Step 3: Install the necessary dependencies.
-npm i
+- 🧳 **Social Travel Feed**  
+  Community feed with travel posts, photos, reviews, and interactions.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- 👥 **Collaborative Trip Planning**  
+  Shared planning tools with trip voting, calendars, and live updates.
 
-**Edit a file directly in GitHub**
+- 🆕 **"NEW" Badges for Features**  
+  Visual indicators marking newly added sections and features.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 🖱️ **Hover Animations**  
+  Smooth interactive animations for buttons, nav items, and UI elements.
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/060a3416-62a0-4d25-b220-275b5c5bb6af) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+- 🌀 **Scroll Animations**  
+  Section-based entrance animations using Framer Motion, AOS, or GSAP.
